@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+                <TableRow
+                    android:id="@+id/widget41"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_x="0px"
+                    android:layout_y="2px">
+                <Button
+                        android:id="@+id/btnSave"
+                        android:layout_width="160px"
+                        android:layout_height="wrap_content"
+                        android:text="@string/save"
+                        android:onClick="onSave">
+                </Button>
+                <Button
+                        android:id="@+id/btnBack"
+                        android:layout_width="160px"
+                        android:layout_height="wrap_content"
+                        android:text="@string/back"
+                        android:onClick="onBack">
+                </Button>
+            </TableRow>
+    <ScrollView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent">
+
+        <LinearLayout
+                      android:layout_width="wrap_content"
+                      android:layout_height="fill_parent"
+                      android:orientation="vertical">
+            <ListView
+                    android:id="@+id/lvIO"
+                    android:layout_height="70px"
+                    android:layout_width="fill_parent">
+            </ListView>
+            <TextView
+                    android:id="@+id/lblOption"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:text="@string/awake"   android:padding="4px"
+
+                    android:textColor="@android:color/white"
+                    android:background="@android:color/darker_gray"
+                    android:textSize="6pt"
+                    >
+            </TextView>
+            <ListView
+                    android:id="@+id/lvAwake"
+                    android:layout_height="280px"
+                    android:layout_width="fill_parent">
+            </ListView>
+            <TextView
+                    android:id="@+id/lblOption"
+                    android:layout_height="wrap_content"
+                    android:layout_width="fill_parent"
+                    android:text="@string/sleep"    android:padding="4px"
+
+                    android:textColor="@android:color/white"
+                    android:background="@android:color/darker_gray"
+                    android:textSize="6pt"
+                    >
+            </TextView>
+            <ListView
+                    android:id="@+id/lvSleep"
+                    android:layout_height="280px"
+                    android:layout_width="fill_parent">
+            </ListView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

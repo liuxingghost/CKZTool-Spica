@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+ <ListView
+         android:id="@+id/ListView01"
+         android:layout_height="wrap_content"
+         android:clickable="false"
+         android:focusable="false"
+         android:layout_width="fill_parent">
+</ListView>
+ <TextView
+         android:id="@+id/lblOption"
+         android:layout_height="wrap_content"
+         android:layout_width="fill_parent"
+         android:text="@string/options"
+         android:textColor="@android:color/white"
+         android:background="@android:color/darker_gray"
+         android:padding="4px"
+         android:textSize="6pt"
+         >
+ </TextView>
+<ListView
+         android:id="@+id/lvMainOptions"
+         android:layout_height="wrap_content"
+         android:layout_width="fill_parent"
+        >
+</ListView>
+</LinearLayout>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+ <TableRow
+                    android:id="@+id/widget41"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_x="0px"
+                    android:layout_y="2px">
+                <Button
+                        android:id="@+id/btnSave"
+                        android:layout_width="160px"
+                        android:layout_height="wrap_content"
+                        android:text="@string/save"
+                        android:onClick="onXKSave">
+                </Button>
+                <Button
+                        android:id="@+id/btnBack"
+                        android:layout_width="160px"
+                        android:layout_height="wrap_content"
+                        android:text="@string/back"
+                        android:onClick="onBack">
+                </Button>
+            </TableRow>
+ <ListView
+         android:id="@+id/lvXKernel"
+         android:layout_height="fill_parent"
+         android:layout_width="fill_parent"
+        >
+</ListView>
+</LinearLayout>

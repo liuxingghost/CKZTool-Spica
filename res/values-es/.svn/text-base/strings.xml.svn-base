@@ -1,0 +1,47 @@
+<resources>
+    <string  name="app_name">CKZTools</string>
+    <string  name="sss_enable">On/Off SSSwitch</string>
+    <string  name="sss_update">Actualizar SSSwitch...</string>
+    <string  name="xkn_update">Actualizar XKernel...</string>
+    <string  name="main_display_info">Mostrar Valores Actuales</string>
+    <string  name="main_customize">Ajustes de SSSwitch</string>
+    <string  name="main_load_profile">Perfiles de SSSwitch</string>
+    <string  name="main_av_profile">Perfiles de A/V</string>
+    <string  name="main_xm_setting">Ajustes de XKernel</string>
+    <string  name="main_apply">Aplicar</string>
+    <string  name="nrml">Normal</string>
+    <string  name="music">Música</string>
+    <string  name="movie">Vídeo</string>
+    <string  name="io_scheduler">Programador I/O</string>
+    <string  name="undervolt">Tensión de CPU</string>
+    <string  name="cpu_governor">Controlador CPU</string>
+    <string  name="cpu_max_frequency">Max frecuencia CPU</string>
+    <string  name="cpu_up_threshold">Umbral CPU</string>
+    <string  name="buffer">Buffer</string>
+    <string  name="soundfix">Fix de Sonido</string>
+    <string  name="set">Establecer </string>
+    <string  name="profile">perfil</string>
+    <string  name="low">Bajo</string>
+    <string  name="high">Alto</string>
+    <string  name="def">Por Defecto</string>
+    <string  name="_normal">Normal</string>
+    <string  name="performance_battery">Rendimiento + Batería</string>
+    <string  name="save">Guardar</string>
+    <string  name="back">Atras</string>
+    <string  name="options">Opciones</string>
+    <string  name="awake">Activo</string>
+    <string  name="sleep">Inactivo</string>
+    <string  name="xkn">XKernel</string>
+    <string name="custom">Personalizado</string>
+    <string  name="quit">Exit</string>
+    <string  name="setting">Setting</string>
+    <string  name="xmkernel">XM Kernel</string>
+    <string  name="ckmod">ckMod Kernel</string>
+    <string  name="lukiqq">Lukiqq Kernel</string>
+        <string  name="kernel">Kernel</string>
+
+        <string  name="install_zip">Instale ZIP</string>
+    <string  name="install">Instale</string>
+    <string name="open_button">Abierto</string>
+    <string name="error_zip">Por favor, elija postal</string>
+</resources>

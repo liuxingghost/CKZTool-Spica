@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="app_name">CKZTools</string>
+    <string  name="sss_enable">An/Aus SSSwitch</string>
+    <string  name="sss_update">Update SSSwitch...</string>
+    <string  name="xkn_update">Update XKernel...</string>
+    <string  name="main_display_info">Aktuelle Einstellungen zeigen</string>
+    <string  name="main_customize">SSSwitch Einstellungen</string>
+    <string  name="main_load_profile">SSSwitch Profile</string>
+    <string  name="main_av_profile">A/V Profile</string>
+    <string  name="main_xm_setting">XKernel Einstellungen</string>
+    <string  name="main_apply">Anwenden</string>
+    <string  name="nrml">Normal</string>
+    <string  name="music">Musik</string>
+    <string  name="movie">Filme</string>
+    <string  name="io_scheduler">IO Scheduler</string>
+    <string  name="undervolt">CPU Spannung</string>
+    <string  name="cpu_governor">CPU Governor</string>
+    <string  name="cpu_max_frequency">Max CPU Frequenz</string>
+    <string  name="cpu_up_threshold">CPU Belastungs-Schwelle</string>
+    <string  name="buffer">Puffer</string>
+    <string  name="soundfix">Soundfix</string>
+    <string  name="set">Anwenden</string>
+    <string  name="profile">Profile</string>
+    <string  name="low">Niedrige Peformance</string>
+    <string  name="high">Hohe Peformance</string>
+    <string  name="def">Voreinstellung</string>
+    <string  name="_normal">Normale Peformance</string>
+    <string  name="performance_battery">Performance + Batterie</string>
+    <string  name="save">Speichern</string>
+    <string  name="back">Zurück</string>
+    <string  name="options">Optionen</string>
+    <string  name="awake">Wach Modus</string>
+    <string  name="sleep">Schlaf Modus</string>
+    <string  name="xkn">XKernel</string>
+    <string name="custom">Personalisieren</string>
+    <string  name="quit">Exit</string>
+    <string  name="setting">Setting</string>
+    <string  name="xmkernel">XM Kernel</string>
+    <string  name="ckmod">ckMod Kernel</string>
+    <string  name="lukiqq">Lukiqq Kernel</string>
+        <string  name="kernel">Kernel</string>
+
+        <string  name="install_zip">Installieren ZIP</string>
+    <string  name="install">Installieren</string>
+    <string name="open_button">Open</string>
+    <string name="error_zip">Bitte wählen Sie ZIP</string>
+</resources>

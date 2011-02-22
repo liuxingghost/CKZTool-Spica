@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="app_name">CKZTools v1.6 en</string>
+    <string  name="sss_enable">On/Off SSSwitch</string>
+    <string  name="sss_update">Update SSSwitch...</string>
+    <string  name="xkn_update">Update XKernel...</string>
+    <string  name="main_display_info">Display current settings</string>
+    <string  name="main_customize">SSSwitch Settings</string>
+    <string  name="main_load_profile">SSSwitch Profiles</string>
+    <string  name="main_av_profile">A/V Profiles</string>
+    <string  name="main_xm_setting">XKernel Settings</string>
+    <string  name="main_apply">Apply</string>
+    <string  name="nrml">Normal</string>
+    <string  name="music">Music</string>
+    <string  name="movie">Movie</string>
+    <string  name="io_scheduler">IO Scheduler</string>
+    <string  name="undervolt">Undervoltage</string>
+    <string  name="cpu_governor">CPU governor</string>
+    <string  name="cpu_max_frequency">CPU Max frequency</string>
+    <string  name="cpu_up_threshold">CPU up-threshold</string>
+    <string  name="buffer">Buffer</string>
+    <string  name="soundfix">Soundfix</string>
+    <string  name="set">Set </string>
+    <string  name="profile">profile</string>
+    <string  name="low">Low</string>
+    <string  name="high">High</string>
+    <string  name="def">Defaut</string>
+    <string  name="_normal">Normal</string>
+    <string  name="performance_battery">performance + battery</string>
+    <string  name="save">Save</string>
+    <string  name="back">Back</string>
+    <string  name="options">Options</string>
+    <string  name="awake">Awake</string>
+    <string  name="sleep">Sleep</string>
+    <string  name="xkn">XKernel</string>
+    <string  name="custom">Custom</string>
+    <string  name="quit">Exit</string>
+    <string  name="setting">Setting</string>
+    <string  name="xmkernel">XM Kernel</string>
+    <string  name="ckmod">ckMod Kernel</string>
+    <string  name="lukiqq">Lukiqq Kernel</string>
+    <string  name="kernel">Kernel</string>
+
+
+    <string  name="install_zip">Install ZIP</string>
+    <string  name="install">Install</string>
+    <string name="open_button">Open</string>
+    <string name="error_zip">Please choose ZIP</string>
+  </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+          <item android:id="@+id/install_zip"
+          android:icon="@drawable/ic_menu_manage"
+          android:title="@string/install_zip" />
+    <item android:id="@+id/setting"
+          android:icon="@drawable/ic_menu_edit"
+          android:title="@string/setting" />
+        <item android:id="@+id/quit"
+          android:icon="@drawable/ic_menu_stop"
+          android:title="@string/quit" />
+
+</menu>

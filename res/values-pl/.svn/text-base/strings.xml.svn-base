@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="app_name">CKZTools</string>
+    <string  name="sss_enable">SSSwitch Wł/Wył</string>
+    <string  name="sss_update">Aktualizowanie SSSwitcha...</string>
+    <string  name="xkn_update">Aktualizowanie XKernel...</string>
+    <string  name="main_display_info">Bieżące ustawienia</string>
+    <string  name="main_customize">SSSwitch ustawienia</string>
+    <string  name="main_load_profile">Profil SSSwitcha</string>
+    <string  name="main_av_profile">Profil A/V</string>
+    <string  name="main_xm_setting">XKernel ustawienia</string>
+    <string  name="main_apply">Akceptuj</string>
+    <string  name="nrml">Normalny</string>
+    <string  name="music">Muzyczny</string>
+    <string  name="movie">Filmowy</string>
+    <string  name="io_scheduler">I/0 Scheduler</string>
+    <string  name="undervolt">Obniżenie napięcia CPU</string>
+    <string  name="cpu_governor">Tryb CPU</string>
+    <string  name="cpu_max_frequency">Maks. Częstotliwość CPU</string>
+    <string  name="cpu_up_threshold">Próg zmiany częst. CPU</string>
+    <string  name="buffer">Bufor</string>
+    <string  name="soundfix">Poprawka dźwięku</string>
+    <string  name="set">Ustaw</string>
+    <string  name="profile">profil</string>
+    <string  name="low">Niskie wyk. baterii</string>
+    <string  name="high">Wysokie wyk. baterii</string>
+    <string  name="def">Standard. wyk. baterii</string>
+    <string  name="_normal">Średnie wyk. baterii</string>
+    <string  name="performance_battery">i procesora</string>
+    <string  name="save">Zapisz</string>
+    <string  name="back">Wróć</string>
+    <string  name="options">Opcje</string>
+    <string  name="awake">Telefon w użyciu</string>
+    <string  name="sleep">Telefon uśpiony</string>
+    <string  name="xkn">XKernel</string>
+    <string  name="custom">Wartość własna</string>
+    <string  name="quit">Exit</string>
+    <string  name="setting">Setting</string>
+    <string  name="xmkernel">XM Kernel</string>
+    <string  name="ckmod">ckMod Kernel</string>
+    <string  name="lukiqq">Lukiqq Kernel</string>
+        <string  name="kernel">Kernel</string>
+
+        <string  name="install_zip">Zainstaluj ZIP</string>
+    <string  name="install">Zainstaluj</string>
+    <string name="open_button">Open</string>
+    <string name="error_zip">Proszę wybrać ZIP</string>
+</resources>

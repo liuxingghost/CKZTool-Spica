@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="app_name">CKZTools</string>
+    <string  name="sss_enable">Вкл/Выкл SSSwitch</string>
+    <string  name="sss_update">Обновления настроек SSSwitch...</string>
+    <string  name="xkn_update">Обновления настроек XKernel...</string>
+    <string  name="main_display_info">Информация о текущей конфигурации</string>
+    <string  name="main_customize">Настройка SSSwitch</string>
+    <string  name="main_load_profile">Профили SSSwitch</string>
+    <string  name="main_av_profile">Профили A/V</string>
+    <string  name="main_xm_setting">Настройки XM Kernel</string>
+    <string  name="main_apply">Приминить</string>
+    <string  name="nrml">Нормальный</string>
+    <string  name="music">Музыка</string>
+    <string  name="movie">Фильмы</string>
+    <string  name="io_scheduler">IO Планировщик</string>
+    <string  name="undervolt">Понижения напряжения</string>
+    <string  name="cpu_governor">CPU регулятор</string>
+    <string  name="cpu_max_frequency">Максимальная частота</string>
+    <string  name="cpu_up_threshold">CPU до порога</string>
+    <string  name="buffer">Буффер</string>
+    <string  name="soundfix">Исправления звука</string>
+    <string  name="set">Установлен</string>
+    <string  name="profile">профиль</string>
+    <string  name="low">Низкий</string>
+    <string  name="high">Высокий</string>
+    <string  name="def">Стандартный</string>
+    <string  name="pnormal">Нормальный</string>
+    <string  name="performance_battery">расход аккумулятора и производительность</string>
+    <string  name="save">Сохранить</string>
+    <string  name="back">Назад</string>
+    <string  name="options">Опции</string>
+    <string  name="awake">Рабочий режим</string>
+    <string  name="sleep">Режим ожидания</string>
+    <string  name="xkn">XKernel</string>
+    <string  name="custom">Пользовательских</string>
+    <string  name="quit">Выход</string>
+    <string  name="setting">Настройки</string>
+    <string  name="xmkernel">XM</string>
+    <string  name="ckmod">ckMod</string>
+    <string  name="lukiqq">Lukiqq</string>
+    <string  name="kernel">Ядро</string>
+
+    <string  name="install_zip">Установить ZIP</string>
+    <string  name="install">Установить</string>
+    <string name="open_button">Открыть</string>
+    <string name="error_zip">Пожалуйста, выберите ZIP</string>
+</resources>

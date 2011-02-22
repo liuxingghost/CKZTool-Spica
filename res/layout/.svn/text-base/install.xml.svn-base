@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+                <TableRow
+                    android:id="@+id/widget41"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_x="0px"
+                    android:layout_y="2px">
+                <Button
+                        android:id="@+id/btnSave"
+                        android:layout_width="160px"
+                        android:layout_height="wrap_content"
+                        android:text="@string/install"
+                        android:onClick="onInstall">
+                </Button>
+                <Button
+                        android:id="@+id/btnBack"
+                        android:layout_width="160px"
+                        android:layout_height="wrap_content"
+                        android:text="@string/back"
+                        android:onClick="onBack">
+                </Button>
+</TableRow>
+    <LinearLayout android:orientation="horizontal"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    >
+	    <EditText android:id="@+id/file_path"
+		    android:layout_width="0dip" 
+		    android:layout_height="wrap_content" 
+		    android:layout_weight="1"/>
+		<ImageButton android:id="@+id/file_manager"
+			android:onClick="onClickOpenFile"
+			android:src="@drawable/ic_launcher_folder_small"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" />
+	</LinearLayout>
+</LinearLayout>
